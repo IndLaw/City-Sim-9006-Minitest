@@ -1,3 +1,0 @@
-When I first started the project, I had issues with dynamic constant, uninitialized 
-constant, and no method errors with the testing files.
-None of the tests for any methods fail, they all run without any errors.
