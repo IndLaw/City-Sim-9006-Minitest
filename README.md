@@ -1,3 +1,3 @@
-# City Sim 9006 Unit Tests
+# City Sim 9006 Minitest
 Unit Tests created with MiniTest
 
